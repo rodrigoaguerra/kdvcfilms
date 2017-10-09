@@ -4,7 +4,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Sobre Nós</h2>
+          <h2 class="featurette-heading">Sobre Nos</h2>
           <p class="lead">Para que o seu casamento seja eternizado, a KDVC Films traz até você um completo serviço de seguimento em filmagem cinematográfica do seu grande dia. Uma empresa com identidade e que é especializada em contar histórias reais de amor. Se você quer um registro único, diferenciado e especial para sua história, procure a KDVC films.</p>
         </div>
         <div class="col-md-5">
@@ -16,7 +16,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-      <h2 class="featurette-heading">Nossos Serviços</h2>
+      <h2 class="featurette-heading">Nossos Servicos</h2>
           <p class="lead">A empresa está integrada por profissionais que fazem o que amam. Pense no filme de amor perfeito, único e diferenciado e inclua em seu contrato:</p>    
          <div class="col-md-6">  
          <ul class="lead">
